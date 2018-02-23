@@ -22,7 +22,7 @@
   "related_applications": [
     {
       "platform": "play",
-      "id": "com.altametrics.rib.zipschedules.activities"
+      "id": "com.hubworks.zipchecklist.activities"
     }
   ]
 }
