@@ -14,7 +14,7 @@
     }
   ],
   "Scope": "/",
-  "start_url": ".",
+  "start_url": "/test-development/",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone",
