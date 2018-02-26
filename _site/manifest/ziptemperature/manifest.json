@@ -1,0 +1,34 @@
+{
+  "short_name": "Ziptemperature",
+  "name": "Ziptemperature",
+  "icons": [
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "Scope": "/",
+  "start_url": "/Ziptemperature",
+  "orientation": "portrait" ,
+  "background_color": "#000",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "prefer_related_applications": true,
+  "related_applications": [
+  {
+  "platform": "play",
+  "id": ""
+  }
+]
+}

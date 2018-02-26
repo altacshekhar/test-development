@@ -1,0 +1,34 @@
+{
+  "short_name": "Autogas",
+  "name": "Autogas",
+  "icons": [
+    {
+      "src": "/../../assets/images/autogas_Icon_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/../../assets/images/autogas_Icon_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/../../assets/images/autogas_Icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "Scope": "/",
+  "start_url": "/autogas.html",
+  "orientation": "portrait" ,
+  "background_color": "#000",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "prefer_related_applications": true,
+  "related_applications": [
+  {
+  "platform": "play",
+  "id": ""
+  }
+]
+}

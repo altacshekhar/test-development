@@ -1,0 +1,34 @@
+{
+  "short_name": "ZipClock",
+  "name": "ZipClock",
+  "icons": [
+    {
+      "src": "/../../assets/images/zip_Clock_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/../../assets/images/zip_Clock_96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/../../assets/images/zip_Clock_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "Scope": "/",
+  "start_url": "/zip-clock.html",
+  "orientation": "portrait" ,
+  "background_color": "#000",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "prefer_related_applications": true,
+  "related_applications": [
+  {
+  "platform": "play",
+  "id": "com.altametrics.zipclock.activities"
+  }
+]
+}
