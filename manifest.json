@@ -19,7 +19,7 @@
     }
   ],
   "Scope": "/",
-  "start_url": "/zip-schedules.html",
+  "start_url": "/test-development/zip-schedules.html",
   "orientation": "portrait" ,
   "background_color": "#000",
   "display": "standalone",
