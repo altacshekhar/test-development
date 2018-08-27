@@ -13,7 +13,7 @@ cta:
   cta_headline: 
 article_id: 18
 category: zipschedules
-date: 2018-08-28 03:20:02
+date: 2018-08-28 03:27:26
 author: Krishan Kumar
 title: Outback Steakhouse Honey Wheat Bread Copycat Recipe
 image: http://localhost/writerportal/assets/images/uploads/1534970672.png
